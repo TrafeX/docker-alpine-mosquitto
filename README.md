@@ -7,6 +7,9 @@ Running the [Mosquitto message broker](https://mosquitto.org/) in a Docker conta
 Works great with [Home Assistant to handle MQTT](https://home-assistant.io/components/mqtt/).
 Also includes the client packages to publish & subscribe using the CLI.
 
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/trafex/alpine-mosquitto.svg)](https://hub.docker.com/r/trafex/alpine-mosquitto/)
+
 ## Usage
 
 Start the message broker
