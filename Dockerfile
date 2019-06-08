@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.9
 LABEL Maintainer="Tim de Pater <code@trafex.nl>" \
       Description="Lightweight Mosquitto MQTT server based on Alpine Linux."
 
